@@ -3,6 +3,6 @@
 */
 public class DummyIFC{
 
-public void importIFC4(String path){}
+public void importIFC34(String path){}
 
 }
