@@ -1,5 +1,5 @@
 /*
-	Dummy class with IFC4 method
+	Dummy class with IFC34 method
 */
 public class DummyIFC{
 
